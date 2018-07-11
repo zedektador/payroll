@@ -1,0 +1,11 @@
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\bin\Debug\FastFoodDemo.exe.config
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\FastFoodDemo.exe
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\FastFoodDemo.pdb
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\bin\Debug\FastFoodDemo.exe
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\bin\Debug\FastFoodDemo.pdb
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\payrollsofware.csprojResolveAssemblyReference.cache
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\sofwarepayroll.FirstCustomControl.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\sofwarepayroll.Form1.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\sofwarepayroll.MySecondCustmControl.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollsoftware\obj\Debug\payrollsofware.csproj.GenerateResource.Cache

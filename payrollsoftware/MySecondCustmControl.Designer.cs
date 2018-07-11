@@ -1,4 +1,4 @@
-﻿namespace FastFoodDemo
+﻿namespace sofwarepayroll
 {
     partial class MySecondCustmControl
     {

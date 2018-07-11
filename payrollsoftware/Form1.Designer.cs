@@ -1,4 +1,4 @@
-﻿namespace FastFoodDemo
+﻿namespace sofwarepayroll
 {
     partial class Form1
     {
@@ -47,8 +47,8 @@
             this.button11 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
-            this.firstCustomControl1 = new FastFoodDemo.FirstCustomControl();
-            this.mySecondCustmControl1 = new FastFoodDemo.MySecondCustmControl();
+            this.firstCustomControl1 = new sofwarepayroll.FirstCustomControl();
+            this.mySecondCustmControl1 = new sofwarepayroll.MySecondCustmControl();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 

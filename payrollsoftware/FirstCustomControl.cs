@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FastFoodDemo
+namespace sofwarepayroll
 {
-    public partial class MySecondCustmControl : UserControl
+    public partial class FirstCustomControl : UserControl
     {
-        public MySecondCustmControl()
+        public FirstCustomControl()
         {
             InitializeComponent();
         }

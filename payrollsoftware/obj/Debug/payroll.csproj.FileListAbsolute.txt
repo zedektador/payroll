@@ -1,0 +1,10 @@
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\bin\Debug\FastFoodDemo.exe.config
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\bin\Debug\FastFoodDemo.exe
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\bin\Debug\FastFoodDemo.pdb
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\payroll.csproj.GenerateResource.Cache
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.exe
+C:\Users\ZEDEK\Documents\Visual Studio 2015\Projects\zedek\payrollfirststep\obj\Debug\FastFoodDemo.pdb
