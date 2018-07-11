@@ -47,8 +47,8 @@
             this.button11 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
-            this.mySecondCustmControl1 = new FastFoodDemo.MySecondCustmControl();
             this.firstCustomControl1 = new FastFoodDemo.FirstCustomControl();
+            this.mySecondCustmControl1 = new FastFoodDemo.MySecondCustmControl();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -95,7 +95,6 @@
             this.button7.Text = "       Customers";
             this.button7.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button7.UseVisualStyleBackColor = true;
-            this.button7.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button7.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button6
@@ -113,7 +112,6 @@
             this.button6.Text = "       Driver Payment";
             this.button6.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button6.UseVisualStyleBackColor = true;
-            this.button6.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button6.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button5
@@ -131,7 +129,6 @@
             this.button5.Text = "       Take Away";
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;
-            this.button5.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button5.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button4
@@ -149,7 +146,6 @@
             this.button4.Text = "       Delivery";
             this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button4.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button3
@@ -167,7 +163,6 @@
             this.button3.Text = "       Collection";
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button3.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button14
@@ -201,7 +196,6 @@
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
-            this.button2.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button2.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // button1
@@ -220,7 +214,6 @@
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            this.button1.MouseLeave += new System.EventHandler(this.panel1_MouseLeave);
             this.button1.MouseHover += new System.EventHandler(this.panel1_MouseHover);
             // 
             // panel2
@@ -229,8 +222,9 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(63, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(963, 10);
+            this.panel2.Size = new System.Drawing.Size(963, 150);
             this.panel2.TabIndex = 1;
+            this.panel2.MouseHover += new System.EventHandler(this.panel1_MouseLeave);
             // 
             // label4
             // 
@@ -332,19 +326,20 @@
             this.button13.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button13.UseVisualStyleBackColor = true;
             // 
+            // firstCustomControl1
+            // 
+            this.firstCustomControl1.Location = new System.Drawing.Point(69, 156);
+            this.firstCustomControl1.Name = "firstCustomControl1";
+            this.firstCustomControl1.Size = new System.Drawing.Size(945, 423);
+            this.firstCustomControl1.TabIndex = 5;
+            // 
             // mySecondCustmControl1
             // 
             this.mySecondCustmControl1.Location = new System.Drawing.Point(69, 156);
             this.mySecondCustmControl1.Name = "mySecondCustmControl1";
-            this.mySecondCustmControl1.Size = new System.Drawing.Size(957, 406);
+            this.mySecondCustmControl1.Size = new System.Drawing.Size(945, 424);
             this.mySecondCustmControl1.TabIndex = 6;
-            // 
-            // firstCustomControl1
-            // 
-            this.firstCustomControl1.Location = new System.Drawing.Point(209, 156);
-            this.firstCustomControl1.Name = "firstCustomControl1";
-            this.firstCustomControl1.Size = new System.Drawing.Size(805, 423);
-            this.firstCustomControl1.TabIndex = 5;
+            this.mySecondCustmControl1.MouseHover += new System.EventHandler(this.panel1_MouseLeave);
             // 
             // Form1
             // 

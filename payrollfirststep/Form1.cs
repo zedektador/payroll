@@ -41,12 +41,18 @@ namespace FastFoodDemo
         {
             panel1.Size = new Size(209, 583);
             mySecondCustmControl1.Size = new Size(811, 406);
+            firstCustomControl1.Size = new Size(811, 406);
+            mySecondCustmControl1.Location = new Point(215, 156);
+            firstCustomControl1.Location = new Point(215, 156);
         }
 
         private void panel1_MouseLeave(object sender, EventArgs e)
         {
             panel1.Size = new Size(63, 583);
             mySecondCustmControl1.Size = new Size(957, 406);
+            firstCustomControl1.Size = new Size(811, 406);
+            mySecondCustmControl1.Location = new Point(69, 156);
+            firstCustomControl1.Location = new Point(69, 156);
         }
     }
 }
